@@ -13,11 +13,11 @@ python3.7 FOSM.py
 
 ## BUILT WITH
 
-* Pycharm
+* Pycharm Communit 2019.3
 
 ## VERSION
 
-1.0
+alpha-1.1.0
 
 ## DEVELOPED BY
 
