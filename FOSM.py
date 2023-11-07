@@ -12,6 +12,7 @@ from email import encoders
 
 
 # Teste GIT push
+# Minha namorada é linda
 
 class Computer:
     def __init__(self, file_path):
