@@ -11,6 +11,8 @@ from email.mime.base import MIMEBase
 from email import encoders
 
 
+# Teste GIT push
+
 class Computer:
     def __init__(self, file_path):
         self.file_path = file_path
